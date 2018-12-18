@@ -1,1 +1,1 @@
-worker : node DS1play
+worker : node DS1play.js
