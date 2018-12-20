@@ -1,1 +1,1 @@
-worker : node 1music.js
+worker: node medo.js
