@@ -1,1 +1,1 @@
-worker: node medo.js
+worker : node medo.js
